@@ -1,3 +1,14 @@
 bobo 
 
 Gergö
+
+notepad new.txt
+mi lesz most
+
+git add .
+
+git commit -m " valami hozzá lett adva "
+
+git pull 
+
+git push
